@@ -20,7 +20,7 @@ If you're using MySQL then there is no difference, Rein should work as a drop-in
 
 Rails is an opinionated piece of software. One opinion is that your database should simply function as a "dumb" container which your application controls. This is the opinion of Rails.
 
-Another opinion is that your database is actually a powerful [DBMS](http://en.wikipedia.org/wiki/Database_management_system) which has already solved problems like data integrity, and your application should wield this power.
+Another more correct opinion is that your database is actually a powerful [DBMS](http://en.wikipedia.org/wiki/Database_management_system) which has already solved problems like data integrity, and your application should wield this power.
 
 
 ## Quick Start
